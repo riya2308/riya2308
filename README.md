@@ -12,6 +12,7 @@ I'm an aspiring software engineer, currently a BTech Information Technology stud
 - **Email**: riyaanarayan@gmail.com
 - **LinkedIn**: [Riya Narayan](www.linkedin.com/in/riyaanarayan)
 - **GitHub**: [@riya2308](https://github.com/riya2308)
+- - **LeetCode**: [riyanarayan2308](https://leetcode.com/riya_narayan/)
 - **HackerRank**: [riyanarayan2308](https://www.hackerrank.com/riyanarayan2308)
 
 
